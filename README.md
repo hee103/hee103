@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Tistory-FF5A5F?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
-[![Unihee1's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee103)](https://unihee1.tistory.com/)
+[![hee103's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee103)](https://unihee1.tistory.com/)
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
