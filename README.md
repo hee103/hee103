@@ -22,9 +22,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/hee103">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hee103&show_icons=true&include_all_commits=true&theme=radical" />
-  </a>
-</p>
+
