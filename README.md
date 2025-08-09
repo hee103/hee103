@@ -1,8 +1,13 @@
-<h3 align="center"> 안녕하세요 Unity와 C#을 공부하고 있는 진희원입니다👋</h3>
+<h3 align="center"> 안녕하세요 Unity와 C#을 공부하고 있는</h3>
 <a href="https://unihee1.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-FF5A5F?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
+<div align="center" style="text-align:center">
+  //  위 아래 한칸씩 꼭 비워야 함.
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${Unihee1}&tag=${C#,Unity}&color=${blue})](${https://unihee1.tistory.com/})
+  //  위 아래 한칸씩 꼭 비워야 함.
+</div>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/hee103">
