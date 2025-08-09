@@ -3,17 +3,8 @@
   <img src="https://img.shields.io/badge/Tistory-FF5A5F?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
-<div align="center">
+[![Unihee1's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee103)](https://unihee1.tistory.com/)
 
-  <!-- 위 아래 한칸씩 꼭 비워야 함. -->
-
-  <a href="https://unihee1.tistory.com/">
-    <img src="https://velog-readme-stats.vercel.app/api?name=Unihee1&tag=unity&color=blue" alt="https://unihee1.tistory.com/" />
-  </a>
-
-  <!-- 위 아래 한칸씩 꼭 비워야 함. -->
-
-</div>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
