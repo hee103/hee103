@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/${hee103}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${hee103}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  <a href="https://github.com/hee103">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hee103&layout=compact&show_icons=true&theme=radical" />
   </a>
 </p>
+
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/${hee103}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${hee103}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${github}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
+  <a href="https://github.com/hee103">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hee103&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
 </p>
