@@ -8,7 +8,7 @@
   <!-- 위 아래 한칸씩 꼭 비워야 함. -->
 
   <a href="https://unihee1.tistory.com/">
-    <img src="https://velog-readme-stats.vercel.app/api?name=Unihee1&tag=java&color=blue" alt="https://unihee1.tistory.com/" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=Unihee1&tag=unity&color=blue" alt="https://unihee1.tistory.com/" />
   </a>
 
   <!-- 위 아래 한칸씩 꼭 비워야 함. -->
