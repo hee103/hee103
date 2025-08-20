@@ -37,12 +37,13 @@
           </div>
     </div><br>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 My Most Used Languages 💡 </h2>
   <a href="https://github.com/hee103">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hee103&layout=compact&show_icons=true&theme=radical" />
   </a>
-</p>
+</div>
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
