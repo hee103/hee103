@@ -38,11 +38,11 @@
     </div><br>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hee103&show_icons=true&theme=radical" />
+<p align="center">
+  <a href="https://github.com/hee103">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hee103&layout=compact&show_icons=true&theme=radical" />
   </a>
-</div>
+</p>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
