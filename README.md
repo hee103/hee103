@@ -3,8 +3,7 @@
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://unihee1.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://unihee1.tistory.com"> </a>
-         <a href=https://unihee1.tistory.com> 
+    <a href=https://unihee1.tistory.com> 
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://unihee1.tistory.com"> 
   </a>
   <a href=https://www.instagram.com/hee_01.03> 
