@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋  안녕하세요! 👋   </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
         저는 게임 클라이언트 개발자를 꿈꾸며 C#과 Unity를 집중적으로 공부하고 있습니다.<br>
-        꾸준히 성장하기 위해 배운 것들을 깃허브와 블로그에 기록하고 있습니다.
+        꾸준한 성장을 위해 배운 것들을 깃허브와 블로그에 기록하고 있습니다.
     </div> 
 </div>
         
